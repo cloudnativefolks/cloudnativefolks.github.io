@@ -1,6 +1,6 @@
 ---
 title: "rego module"
-weight : 4
+weight : 3
 ---
 
 #### Rego modules

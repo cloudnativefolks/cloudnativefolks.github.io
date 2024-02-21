@@ -1,6 +1,6 @@
 ---
 title: "Open Policy Agent (OPA) Grammar"
-weight : 3
+weight : 2
 ---
 
 

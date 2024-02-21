@@ -1,6 +1,6 @@
 ---
 title: "rego import statement"
-weight : 5
+weight : 4
 ---
 
 
