@@ -3,13 +3,11 @@ title: "Open Policy Agent (OPA) Grammar"
 weight : 2
 ---
 
-
-
-# Open Policy Agent (OPA) Grammar
+### Open Policy Agent (OPA) Grammar
 
  the grammar used in Open Policy Agent (OPA) for writing policies. This grammar is expressed in Extended Backus-Naur Form (EBNF).
 
-## Grammar Components
+### Grammar Components
 
 | Component         | Description                                                           |
 |-------------------|-----------------------------------------------------------------------|
@@ -26,6 +24,5 @@ weight : 2
 | `term`            | The simplest unit, can be various types like reference, array, object.|
 | `infix-operator`  | Operators for boolean, arithmetic, or binary operations.              |
 
-This table provides a simplified overview of each component in the OPA grammar. The EBNF format is more detailed and specific, primarily used for implementing parsers and compilers. 
 
 
