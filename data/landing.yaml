@@ -24,7 +24,7 @@ hero:
   height: 80px
 
   title: "CloudNativeFolks"
-  subtitle: "Demestifying Cloud Native Technology"
+  subtitle: "Demystifying Cloud Native Technology"
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
@@ -52,29 +52,29 @@ featureGrid:
   template: feature grid
 
   title: Why choose Cloud Native Folks?
-  subtitle: Learn Cloud Native Technolgy In Core .
+  subtitle: Learn The Core of Cloud Native Technolgy.
 
   items:
     - title: Serverless Computing
       icon: 🚀
-      description: Serverless computing is a cloud-computing execution model in which the cloud provider runs the server, and dynamically manages the allocation of machine resources. Pricing is based on the actual amount of resources consumed by an application, rather than on pre-purchased units of capacity.
+      description: Serverless computing is a cloud computing execution model in which the cloud provider runs the server, and dynamically manages the allocation of machine resources. Pricing is based on the actual amount of resources consumed by an application, rather than on pre-purchased units of capacity.
 
 
     - title: API Gateway
       icon: 🌐
-      description: An API gateway is an API management tool that sits between a client and a collection of backend services. An API gateway acts as a reverse proxy to accept all application programming interface (API) calls, aggregate the various services required to fulfill them, and return the appropriate result.
+      description: An API gateway is an API management tool that sits between a client and a collection of backend services. An API gateway acts as a reverse proxy to accept all application programming interface (API) calls, aggregate the various services required to fulfil them, and return the appropriate result.
 
-    - title: Continous Integration and Continous Deployment
+    - title: Continuous Integration and Continuous Deployment
       icon: 🔄
-      description: Continuous integration (CI) and continuous deployment (CD) embody a culture, set of operating principles, and collection of practices that enable application development teams to deliver code changes more frequently and reliably.
+      description: Continuous Integration (CI) and Continuous Deployment (CD) embody a culture, set of operating principles, and collection of practices that enable application development teams to deliver code changes more frequently and reliably.
 
     - title: Infrastructure as Code
       icon: 🏗️
-      description: Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
+      description: Infrastructure as Code (IaC) is the process of managing and provisioning cloud infrastructure through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
     
-    - title: configuration management
+    - title: Configuration Management
       icon: 🛠️
-      description: Configuration management (CM) is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
+      description: Configuration Management (CM) is a systems engineering process for establishing and maintaining consistency of a product's performance, functional, and physical attributes with its requirements, design, and operational information throughout its life.
     
     - title: Observability and Monitoring
       icon: 👀
@@ -82,24 +82,24 @@ featureGrid:
     
     - title: Cloud Native Storage
       icon: 🗄️
-      description: Cloud-native storage is a term used to describe storage that is designed to work with cloud-native applications. It is a storage solution that is built to work with modern, cloud-based applications and is designed to be scalable, resilient, and flexible.
+      description: Cloud Native Storage is a term used to describe storage that is designed to work with cloud native applications. It is a storage solution that is built to work with modern, cloud-based applications and is designed to be scalable, resilient, and flexible.
  
-    - title: Remote Procedure Call
+    - title: Remote Procedure Calls
       icon: 📡
-      description: Remote procedure call (RPC) is an inter-process communication technique to allow client and server software to communicate across a network. The RPC protocol is a request–response protocol. An RPC is initiated by the client, which sends a request message to a known remote server to execute a specified procedure with supplied parameters.
+      description: Remote procedure Calls (RPC) are an inter-process communication technique to allow clients and servers communicate across a network. The RPC protocol is a request–response protocol. An RPC is initiated by the client, which sends a request message to a known remote server to execute a specified procedure with supplied parameters.
 
     - title: Service Proxy
       icon: 🚚
-      description: A service proxy is a service that acts as an intermediary between a client and a server, providing a single access point for multiple services. It is a design pattern that allows a single service to act as a proxy for multiple services, providing a single point of access to multiple services.
+      description: A Service Proxy acts as an intermediary between a client and a server, providing a single access point for multiple services. It is a design pattern that allows a single service to act as a proxy for multiple services, providing a single point of access to multiple services.
 
     - title: Cloud Native Networking
       icon: 🌐
-      description: Cloud-native networking is a term used to describe networking that is designed to work with cloud-native applications. It is a networking solution that is built to work with modern, cloud-based applications and is designed to be scalable, resilient, and flexible.
+      description: Cloud native networking is a term used to describe networking that is designed to work with cloud native applications. It is a networking solution that is built to work with modern, cloud-based applications. It is designed to be scalable, resilient, and flexible.
 
     - title: Security & Compliance
       icon: 🔒
-      description: Security and compliance are critical components of any cloud-native application. Security is the practice of protecting systems, networks, and programs from digital attacks. Compliance is the practice of ensuring that systems, networks, and programs are in compliance with industry standards and regulations.
+      description: Security and compliance are critical components of any cloud native application. Security is the practice of protecting systems, networks, and programs from digital attacks. Compliance is the practice of ensuring that systems, networks, and programs are in line with prescribed industry standards and regulations.
 
-    - title: Distributed tracing
+    - title: Distributed Tracing
       icon: 📈
       description: Distributed tracing is a method used to profile and monitor applications, especially those built using a microservices architecture. Distributed tracing helps pinpoint where failures occur and what causes poor performance.       
