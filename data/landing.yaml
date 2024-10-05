@@ -52,7 +52,9 @@ featureGrid:
   template: feature grid
 
   title: Why choose Cloud Native Folks?
+
   subtitle: Learn The Core of Cloud Native Technolgy.
+  subtitle: Learn Cloud Native Technology In Core .
 
   items:
     - title: Serverless Computing
